@@ -17,7 +17,7 @@ Before you begin, make sure you have the following installed:
 1. Clone this repository (if you haven't already):
 
    ```bash
-   git clone https://github.com/sibasundarsahoo/Flask-app.git
+   git clone https://github.com/sibasundarsahoo/Flask-app-project.git
    ```
 
 2. Navigate to the project directory:
